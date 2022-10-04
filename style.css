@@ -1,3 +1,7 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
 #hero{
     background: #20272F;
 }
@@ -8,4 +12,20 @@
 
 #aboutMe{
     color: white;
+}
+
+.aboutMeParagraph{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.aboutMeHeader{
+    border-left: 5px solid red;
+    padding-left:10px ;
+    font-weight: 400;
+}
+
+.lhogo{
+    letter-spacing: 2px;
 }
