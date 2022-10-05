@@ -49,3 +49,10 @@
 #whatIstandfor{
     color: white;
 }
+#movingImages{
+    background: #1f272f;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
