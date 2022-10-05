@@ -45,3 +45,7 @@
 .cardTransition:hover{
     transform: scale(1.05);
 }
+
+#whatIstandfor{
+    color: white;
+}
