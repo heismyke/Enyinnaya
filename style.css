@@ -11,16 +11,22 @@
     background: #20272F;
 }
 
-
+#gallery{
+    background: #20272F;
+}
 
 #aboutMe{
     color: white;
 }
 #projects{
     color: white;
+    background: #20272F;
 }
 
 #biography{
+    color: white;
+}
+#vision{
     color: white;
 }
 #myIntentions{
@@ -44,6 +50,12 @@
     font-size: 16px;
 }
 .biography{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 16px;
+}
+.vision{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     line-height: 30px;
