@@ -1,6 +1,7 @@
 
 *{
     font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth scroll;
 }
 #hero{
     background: #20272F;
@@ -10,7 +11,13 @@
     background: #20272F;
 }
 
+
+
 #aboutMe{
+    color: white;
+}
+
+#biography{
     color: white;
 }
 #myIntentions{
@@ -27,7 +34,12 @@
     line-height: 30px;
     font-size: 16px;
 }
-
+.biography{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 16px;
+}
 .generalHeader{
     border-left: 5px solid red;
     padding-left:10px ;
