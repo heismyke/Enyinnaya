@@ -16,6 +16,9 @@
 #aboutMe{
     color: white;
 }
+#projects{
+    color: white;
+}
 
 #biography{
     color: white;
@@ -29,6 +32,12 @@
     background: #1f272f;
 }
 .aboutMeParagraph{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 16px;
+}
+.projectsParagraph{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     line-height: 30px;
