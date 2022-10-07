@@ -117,6 +117,10 @@
 #movingImages{
     background: #1f272f;
 }
+.card-body{
+    background: #1f272f;
+}
+
 
 .item{
     padding: 7% 15%;
@@ -135,7 +139,7 @@ footer{
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    overflow: scroll;
+    
     
 }
 .trans{
