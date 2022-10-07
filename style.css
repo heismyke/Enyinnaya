@@ -161,6 +161,7 @@ footer{
         
         
     }
+    
 }
 *{
     margin: 0;
@@ -172,14 +173,34 @@ footer{
     background: #EEE
 }
 
-    #str {
+    /* #str {
    width: 450px;
    padding: 20px;
    height: auto;
    font-family: sans-serif;
    font-size: 80px;
-  
    color: #fff;
    font-weight: bold;
    
-}
+} */
+
+#str{
+    font-size: calc(1rem + 3vw);
+    line-height: 70px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  @media (min-width: 1200px) {
+    #str{
+        width: 450px;
+        padding: 20px;
+        height: auto;
+        line-height: 100px;
+        font-family: sans-serif;
+        font-size: 80px;
+        color: #fff;
+        font-weight: bold;
+    }
+  }
